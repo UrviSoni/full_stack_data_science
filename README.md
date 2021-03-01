@@ -2,16 +2,17 @@
 This Repository will help you through 'Full Stack Data Science' from basics. It cover many several Projects (Mini and Major) based on industry standard.
 
 ___
-# :pushpin: Installation
+## :pushpin: Installation
 
 Name | Windows | Ubuntu | Mac
 -----|---------|--------|----
 Anaconda|[Link](https://medium.com/@GalarnykMichael/install-python-anaconda-on-windows-2020-f8e188f9a63d)|[Link](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart)| [Link](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x)
 PyCharm|[Link](https://www.tutorialspoint.com/pycharm/pycharm_installation.htm)|[Link](https://linuxhint.com/install-pycharm-ubuntu/)|[Link](https://www.javatpoint.com/how-to-install-pycharm-on-mac)
 Jupyter Notebook|[Link](https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/)|[Link](https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-18-04)|[Link](https://medium.com/@blessedmarcel1/how-to-install-jupyter-notebook-on-mac-using-homebrew-528c39fd530f)
+Postman|[Link](https://www.javatpoint.com/postman-installation-and-updates)|[Link](https://linuxize.com/post/how-to-install-postman-on-ubuntu-18-04/)|[Link](https://www.toolsqa.com/postman/download-and-install-postman/)
 
 ___
-# :pushpin: Working with Environment
+## :pushpin: Working with Environment
 
 **_Step 1 :-_** To Create an Environment use below command
 
@@ -49,3 +50,9 @@ _For Windows User -_
 _For Ubuntu/Mac User -_
 
 ```source deactivate <your env name>```
+
+___
+## :pushpin: Code
+
+**_Python_**
+[Basics Of Python](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/basics_of_python.ipynb)
