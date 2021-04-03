@@ -1,0 +1,29 @@
+# Que 1 : Create new directory # Que 2 : create 10 txt file and write some data into file at same time. # Ques 3: Read all the data from this dir and print in console. # Que 4 : Hold all the data in list. # Que 5 : Write all the data in new file from list. # Que 6 :Keeping only new file in present directory and move rest in new directory. 
+
+
+
+os.mkdir("Steve") 
+os.chdir(os.getcwd()+"\Steve") 
+for i in range(10): 
+	file = "test"+str(i)+".txt" 
+	f = open(file, 'w') 
+	f.write("My name is Steve Dias") 
+	f.close() 
+
+for i in range(10): 
+	file = "test"+str(i)+".txt" 
+	f = open(file, 'r') 
+	data = f.read() 
+	f.close() 
+	print(data) 
+l = [] 
+for i in range(10): 
+	file = "test"+str(i)+".txt" 
+	f = open(file, 'r') 
+	l.append(f.read()) 
+	f.close() 
+	print(l) 
+f = open('new_file.txt', 'w') 
+for i in l: 
+	f.write(i) 
+	f.close() 
