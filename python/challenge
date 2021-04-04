@@ -1,0 +1,6 @@
+# Simple Desktop Application with the help of tkinter or kivy
+
+1) It's totally python based desktop based application. You are not going to use any other language.
+2) Make an app that have search bar, in that search bar you can type something and according to your search you are able to see browsing window, in that browsing window, your search based files should be list out.
+3) if it's '.txt/.pdf/.docx' file, all those '.txt/.pdf/.docx' will be 'MERGE' in other file and save that file in other location.
+

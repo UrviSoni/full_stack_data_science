@@ -1,0 +1,16 @@
+2021-04-04 16:23:17,681  I am going to start my program 
+2021-04-04 16:23:18,224  This is a first warning of my prgram so modify it 
+2021-04-04 16:23:18,771  This is msg for error 
+2021-04-04 16:23:23,973 40
+2021-04-04 16:23:23,974 error occured
+2021-04-04 16:23:23,975 division by zero
+Traceback (most recent call last):
+  File "<ipython-input-13-62ce2776eadd>", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2021-04-04 16:23:26,521 this is my info log
+2021-04-04 16:23:26,521 this is my warning log
+2021-04-04 16:23:26,522 this is my error log
+2021-04-04 16:23:26,523 this is my exception log
+NoneType: None
+2021-04-04 16:23:26,523 this is my critical log

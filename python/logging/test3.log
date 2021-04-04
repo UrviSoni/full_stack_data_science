@@ -1,0 +1,11 @@
+2021-04-04 17:04:07,590 root INFO  this is my first test code for log 
+2021-04-04 17:04:07,592 logger1.area1 INFO  this is the log info of one 
+2021-04-04 17:04:07,592 logger2.area2 DEBUG  this is the debug of two 
+2021-04-04 17:04:07,593 logger2.area2 INFO  this is the lo info of two 
+2021-04-04 17:06:56,654 root INFO  this is my first test code for log 
+2021-04-04 17:06:56,658 user1 INFO  this is the log info of one 
+2021-04-04 17:06:56,659 user2 DEBUG  this is the debug of two 
+2021-04-04 17:06:56,659 user2 INFO  this is the lo info of two 
+2021-04-04 17:29:40,921 root INFO main log
+2021-04-04 17:29:40,924 user1 INFO this is from user1 info
+2021-04-04 17:29:40,926 user2 DEBUG This is from user2 debug
