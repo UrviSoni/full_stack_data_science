@@ -54,6 +54,45 @@ _For Ubuntu/Mac User -_
 ___
 ## :pushpin: Code
 
-**_Python_**
+:snake:	**_Python_**
 
 [Basics Of Python](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/basics_of_python.ipynb)
+[Basics Of Python 1](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/basics_of_python_1.ipynb)
+[Basics Of Python 2](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/basics_of_python_2.ipynb)
+[Functions In Python](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/functions_in_python.ipynb)
+[Logging And Debugging](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/logging.ipynb)
+[Modules](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/modules.ipynb)
+[Exception Handling](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/exception_handling.ipynb)
+[File Operations](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/file_operation/file_operations.ipynb)
+[Object Oriented Programming - OPPS](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/object_oriented_programming_oops.ipynb)
+
+:notebook:	**_Python Theory Exercise - (Interview Preparation)_**
+[Basics Of Python - String, Variables, Data Types, Expression, Statement](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_basic_assignment/assignment_1.ipynb)
+
+:computer:	**_Python Codding Exercise_**
+
+[Print "Hello Python"](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_1.ipynb)
+[Addition and Division](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_1.ipynb)
+[Area Of Triangle](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_1.ipynb)
+[Swap Two Variables](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_1.ipynb)
+[Generate Random Number](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_1.ipynb)
+[Convert Kilometers To Miles](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_2.ipynb)
+[Convert Celsius To Fahrenheit](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_2.ipynb)
+[Display Calender](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_2.ipynb)
+[Quadratic Equation](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_2.ipynb)
+[Swap Two Variables Without Using External Variable](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_2.ipynb)
+[Positive, Negative or Zero](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_3.ipynb)
+[Odd or Even](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_3.ipynb)
+[Leap Year](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_3.ipynb)
+[Prime Number](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_3.ipynb)
+[Prime Number In Interval](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_3.ipynb)
+[Factorial Of A Number](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_4.ipynb)
+[Display Multiplication Table](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_4.ipynb)
+[Fibonacci Sequence](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_4.ipynb)
+[Armstrong Number](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_4.ipynb)
+[Armstrong Number In Interval](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_4.ipynb)
+[Sum Of Natural Numbers](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_4.ipynb)
+
+:eye:	**_Computer Vision_**
+
+[Calculator App](https://github.com/UrviSoni/full_stack_data_science/tree/main/computer_vision/calculator)
