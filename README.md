@@ -58,6 +58,6 @@ ___
 
 :notebook:	**_[Python Theory Exercise - (Interview Preparation)](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_basic_assignment/README.md)_**
 
-:computer:	**_[Python Codding Exercise](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/README.md)_**
+:computer:	**_[Python Coding Exercise](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/README.md)_**
 
 :eye:	**_[Computer Vision](https://github.com/UrviSoni/full_stack_data_science/blob/main/computer_vision/README.md)_**
