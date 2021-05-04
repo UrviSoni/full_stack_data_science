@@ -1,4 +1,4 @@
-:computer:	**_Python Codding Exercise_**
+:computer:	**_Python Coding Exercise_**
 
 1. [Print "Hello Python"](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_1.ipynb)
 2. [Addition and Division](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_1.ipynb)
