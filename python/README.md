@@ -11,3 +11,4 @@ No. | Topics
 7.|[Exception Handling](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/exception_handling.ipynb)
 8.|[File Operations](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/file_operation/file_operations.ipynb)
 9.|[Object Oriented Programming - OPPS](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/object_oriented_programming_oops.ipynb)
+10.|[Abstraction Inheritance Encapsulation](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/abstraction_inheritance_encapsulation.ipynb)
