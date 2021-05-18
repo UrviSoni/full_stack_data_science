@@ -60,4 +60,6 @@ ___
 
 :computer:	**_[Python Coding Exercise](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/README.md)_**
 
+:bulb: **_[Databases](https://github.com/UrviSoni/full_stack_data_science/blob/main/19.2.MySQL/README.md)_**
+
 :eye:	**_[Computer Vision](https://github.com/UrviSoni/full_stack_data_science/blob/main/computer_vision/README.md)_**
