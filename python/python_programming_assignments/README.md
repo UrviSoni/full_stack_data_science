@@ -23,4 +23,8 @@ No. | Solution
 19.|[Armstrong Number](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_4.ipynb)
 20.|[Armstrong Number In Interval](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_4.ipynb)
 21.|[Sum Of Natural Numbers](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_4.ipynb)
-
+22.|[Find LCM](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_5.ipynb)
+23.|[Find HCF](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_5.ipynb)
+24.|[Decimal to Binary, Octal and Hexadecimal](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_5.ipynb)
+25.|[ASCII value of a Character](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_5.ipynb)
+26.|[Calculator with 4 Basic Mathematical Operations](https://github.com/UrviSoni/full_stack_data_science/blob/main/python/python_programming_assignments/python_programming_assignment_5.ipynb)
